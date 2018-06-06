@@ -6,8 +6,8 @@ I started to learn about the GIT and this page is the practicing tool.
  - CSS3
  
  # Language
- -Hungarian
- -English
+ - Hungarian
+ - English
  
- #Live verison
+ # Live verison
  https://gpeter1987.github.io/simple-quote-page/
